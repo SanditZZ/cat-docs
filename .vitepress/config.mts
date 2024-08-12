@@ -16,6 +16,10 @@ export default defineConfig({
         text: 'Why Cat Docs?',
         items: [{ text: 'Why', link: '/why-cat-docs/why' }],
       },
+      {
+        text: 'Statistics',
+        items: [{ text: 'Breeds', link: '/statistics/breeds' }],
+      },
     ],
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/SanditZZ/cat-docs' }],
