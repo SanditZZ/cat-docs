@@ -14,7 +14,7 @@ const breeds = ref(breedsData);
 
 _Updated: 12 Aug 2024_
 
-<DataTable :value="breeds" tableStyle="min-width: 30rem">
+<DataTable :value="breeds" showGridlines  tableStyle="min-width: 30rem">
     <Column field="Breed" header="Breed" sortable ></Column>
     <Column field="Origin" header="Origin" sortable></Column>
     <Column field="Body" header="Body" sortable></Column>
