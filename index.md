@@ -3,9 +3,8 @@
 layout: home
 
 hero:
-  name: "Cat Docs"
-  text: "Cat Docs"
-  tagline: My great project tagline
+  name: 'Cat Docs'
+  text: 'Everything and anything about cats!'
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +14,6 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: All About Cats
+    details: All the information related to cats into one website - whether it be about tips for owning a cat as a pet, learning cat history, all cat products, you name it.
 ---
-
