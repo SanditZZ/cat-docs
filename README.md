@@ -1,5 +1,16 @@
 # Welcome to Cat Docs - An Open-Source Project Documenting Cats!
 
+The idea of this project is to combine all the information related to cats into one website - whether it be about tips for owning a cat as a pet, learning cat history, all cat products, you name it.
+
+Feel free to contribute and create new issues for any feedback, or questions you have! This is a project about everything and anything related to cats, so feel free to explore!
+
+### For Beginners
+
+- Feel free to open new issues and comment on existing ones if you want to take on tasks. Help is always welcomed!
+
+Thanks for visiting Cat Docs!
+
+
 ## 🌈 Contribution Guidelines:
 
 ### Getting Started
