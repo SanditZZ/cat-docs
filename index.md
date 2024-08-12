@@ -10,8 +10,8 @@ hero:
       text: Why Cat Docs?
       link: /why-cat-docs/why
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GitHub
+      link: https://github.com/SanditZZ/cat-docs
 
 features:
   - title: All About Cats

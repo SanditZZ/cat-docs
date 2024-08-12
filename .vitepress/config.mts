@@ -1,28 +1,23 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Cat Docs",
-  description: "Cat Docs",
+  title: 'Cat Docs',
+  description: 'Cat Docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Why Cat Docs?', link: '/why-cat-docs/why' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+        text: 'Why Cat Docs?',
+        items: [{ text: 'Why', link: '/why-cat-docs/why' }],
+      },
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+    socialLinks: [{ icon: 'github', link: 'https://github.com/SanditZZ/cat-docs' }],
+  },
+});
