@@ -21,4 +21,5 @@ export default defineConfig({
     socialLinks: [{ icon: 'github', link: 'https://github.com/SanditZZ/cat-docs' }],
   },
   cleanUrls: true,
+  srcDir: './src',
 });
