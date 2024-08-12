@@ -7,8 +7,8 @@ hero:
   text: 'Everything and anything about cats!'
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Why Cat Docs?
+      link: /why-cat-docs/why
     - theme: alt
       text: API Examples
       link: /api-examples
