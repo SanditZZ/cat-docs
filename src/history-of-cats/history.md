@@ -1,3 +1,3 @@
 # History Of Cats
 
-The wonderful history of cats
+The history of cats
