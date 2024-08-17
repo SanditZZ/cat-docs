@@ -24,6 +24,10 @@ export default defineConfig({
         text: "Feeding Guidelines",
         items: [{text: "Feeding Guidelines", link: "/feeding-guidelines/yum"}],
       },
+      {
+        text: "History Of Cats",
+        items: [{text: "History Of Cats", link: "/history-of-cats/history"}],
+      },
     ],
 
     socialLinks: [
