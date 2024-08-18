@@ -24,6 +24,10 @@ export default defineConfig({
         text: "Feeding Guidelines",
         items: [{text: "Feeding Guidelines", link: "/feeding-guidelines/yum"}],
       },
+      {
+        text: "Grooming Guidelines",
+        items: [{text: "Grooming Guidelines", link: "/grooming-guidelines/groom"}],
+      },
     ],
 
     socialLinks: [
