@@ -17,6 +17,10 @@ export default defineConfig({
         items: [{text: "Why", link: "/why-cat-docs/why"}],
       },
       {
+        text: "History",
+        items: [{text: "Origin of Domestic Cats", link: "/history/origin"}]
+      },
+      {
         text: "Statistics",
         items: [{text: "Breeds", link: "/statistics/breeds"}],
       },
