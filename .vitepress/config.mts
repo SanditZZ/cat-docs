@@ -32,6 +32,10 @@ export default defineConfig({
         text: "Grooming Guidelines",
         items: [{text: "Grooming Guidelines", link: "/grooming-guidelines/groom"}],
       },
+      {
+        text: "Fun Facts",
+        items: [{text: "Fun Facts", link: "/fun-facts/facts"}],
+      },
     ],
 
     socialLinks: [
