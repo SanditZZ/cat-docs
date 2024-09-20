@@ -33,6 +33,10 @@ export default defineConfig({
         items: [{text: "Grooming Guidelines", link: "/grooming-guidelines/groom"}],
       },
       {
+        text: "Frequently Asked Questions",
+        items: [{text: "Frequently Asked Questions", link: "/frequently-asked-questions/faqs"}],
+      },
+      {
         text: "Fun Facts",
         items: [{text: "Fun Facts", link: "/fun-facts/facts"}],
       },
