@@ -26,7 +26,7 @@ export default defineConfig({
       },
       {
         text: "Feeding Guidelines",
-        items: [{text: "Feeding Guidelines", link: "/feeding-guidelines/yum"}],
+        items: [{text: "Feeding Guidelines", link: "/feeding-guidelines/things-cat-cannot-eat"}],
       },
       {
         text: "Grooming Guidelines",
