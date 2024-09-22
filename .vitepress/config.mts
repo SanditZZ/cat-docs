@@ -26,7 +26,7 @@ export default defineConfig({
       },
       {
         text: "Feeding Guidelines",
-        items: [{text: "Feeding Guidelines", link: "/feeding-guidelines/yum"}],
+        items: [{text: "Feeding Guidelines", link: "/feeding-guidelines/things-cat-cannot-eat"}],
       },
       {
         text: "Grooming Guidelines",
@@ -40,6 +40,13 @@ export default defineConfig({
         text: "Fun Facts",
         items: [{text: "Fun Facts", link: "/fun-facts/facts"}],
       },
+      {
+        text: "Content Creation Guidelines",
+        items: [
+          {text: "Adding a New Section", link: "/content-creation-guidelines/adding-a-section"},
+          {text: "Adding a Page to an Existing Section", link: "/content-creation-guidelines/adding-a-page-to-existing-section"},
+        ],
+      },
     ],
 
     socialLinks: [
@@ -49,3 +56,4 @@ export default defineConfig({
   cleanUrls: true,
   srcDir: "./src",
 });
+
