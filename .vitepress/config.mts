@@ -37,6 +37,10 @@ export default defineConfig({
         items: [{text: "Frequently Asked Questions", link: "/frequently-asked-questions/faqs"}],
       },
       {
+        text: "Cats Toys",
+        items: [{text: "Most frequently used Toys for Cats", link: "/toys-cats/toys.md"}],
+      },
+      {
         text: "Fun Facts",
         items: [{text: "Fun Facts", link: "/fun-facts/facts"}],
       },
